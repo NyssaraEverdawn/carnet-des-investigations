@@ -256,6 +256,7 @@ plugins:
   - source: "@chaoticgoodcomputing/quartz-graph"
     enabled: true
     options:
+      title: "Enquêtes
       privateTags:
         - private
       iconCollections:
@@ -267,8 +268,10 @@ plugins:
             - Mystère
             - writing
         showTags: false
+        scale: / 0.7
+        labelCurrentPage: true
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: "@chaoticgoodcomputing/quartz-styles"
     enabled: true
