@@ -268,8 +268,7 @@ plugins:
             - Mystère
             - writing
         showTags: false
-        scale: / 0.7
-        labelCurrentPage: true
+        scale: 0.7
     layout:
       position: afterBody
       priority: 10
