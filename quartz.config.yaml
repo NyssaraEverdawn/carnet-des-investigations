@@ -270,6 +270,10 @@ plugins:
           pinnedTags:
             - engineering
             - writing
+        repelForce: 0.0
+        centerForce: 0.0
+        linkDistance: 30
+        showTags: false
     layout:
       position: right
       priority: 10
@@ -279,7 +283,16 @@ plugins:
     order: 15
   - source: "@chaoticgoodcomputing/quartz-tags"
     enabled: true
-    options: {}
+    options:
+      tags:
+        Personne: { color: "#00ffee"}
+        Mystère: { color: "#ff0000"}
+        Déduction: { color: "#2bff00"}
+        Faction: { color: "#ee00ff"}
+        Hypothèse: { color: "#fa8500"}
+        Lieu: { color: "#8000ff"}
+        Observation: { color: "#eeff00"}
+        ÉlémentMatériel: { color: "#0033ff"}
     order: 20
 layout:
   groups:
