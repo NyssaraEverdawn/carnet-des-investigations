@@ -6,7 +6,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: NyssaraEverdawn.github.io
   ignorePatterns:
     - private
     - Templates
