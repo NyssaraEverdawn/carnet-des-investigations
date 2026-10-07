@@ -268,9 +268,9 @@ plugins:
             - Mystère
             - writing
         showTags: false
-        scale: 0.7
+        scale: 0.2
     layout:
-      position: afterBody
+      position: right
       priority: 10
   - source: "@chaoticgoodcomputing/quartz-styles"
     enabled: true
