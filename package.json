@@ -22,6 +22,8 @@
   },
   "dependencies": {
     "@chaoticgoodcomputing/quartz-graph": "^0.1.0",
+    "@chaoticgoodcomputing/quartz-styles": "^0.1.0",
+    "@chaoticgoodcomputing/quartz-tags": "^0.1.0",
     "@clack/prompts": "^1.8.0",
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.7.0",
