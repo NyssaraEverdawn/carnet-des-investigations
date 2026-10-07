@@ -262,26 +262,20 @@ plugins:
       iconCollections:
         custom: ../icons
       localGraph:
+        graphStyle: pseudo-shell
         depth: -1
         repelForce: 1
         fontSize: 0.75
         opacityScale: 1.8
         showTags: false
         scale: 2
-        pseudoShellConfig:
-          pinnedTags:
-            - "Mystère"
-            - "writing"
       globalGraph:
+        graphStyle: pseudo-shell
         repelForce: 1
         fontSize: 0.75
         opacityScale: 1.8
         showTags: false
         scale: 2
-        pseudoShellConfig:
-          pinnedTags:
-            - "Mystère"
-            - "writing"
     layout:
       position: right
       priority: 10
