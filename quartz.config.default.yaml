@@ -1,6 +1,5 @@
-# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Carnet des Investigations
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -10,7 +9,7 @@ configuration:
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
-    - templates
+    - Templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -257,6 +256,18 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: "@chaoticgoodcomputing/quartz-graph"
+    enabled: true
+    options:
+      privateTags: [ private ]
+      iconCollections: { custom: ../icons }
+      globalGraph:
+        graphStyle: pseudo-shell
+        pseudoShellConfig:
+          pinnedTags: [ engineering, writing ]
+    layout:
+      position: right
+      priority: 10
 layout:
   groups:
     toolbar:
