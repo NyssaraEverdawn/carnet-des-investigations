@@ -270,9 +270,6 @@ plugins:
           pinnedTags:
             - engineering
             - writing
-        repelForce: 0.0
-        centerForce: 0.0
-        linkDistance: 30
         showTags: false
     layout:
       position: right
