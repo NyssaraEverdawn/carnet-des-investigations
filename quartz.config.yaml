@@ -261,25 +261,27 @@ plugins:
         - private
       iconCollections:
         custom: ../icons
-      debugPanel: true
-      globalGraph:
-        graphStyle: pseudo-shell
-        pseudoShellConfig:
-          pinnedTags:
-            - Mystère
-            - writing
-        showTags: false
-        scale: 1.5
-        depth: -1
       localGraph:
-        graphStyle: pseudo-shell
+        depth: -1
+        repelForce: 1
+        fontSize: 0.75
+        opacityScale: 1.8
+        showTags: false
+        scale: 2
         pseudoShellConfig:
           pinnedTags:
-            - Mystère
-            - writing
+            - "Mystère"
+            - "writing"
+      globalGraph:
+        repelForce: 1
+        fontSize: 0.75
+        opacityScale: 1.8
         showTags: false
-        scale: 1.5
-        depth: -1
+        scale: 2
+        pseudoShellConfig:
+          pinnedTags:
+            - "Mystère"
+            - "writing"
     layout:
       position: right
       priority: 10
