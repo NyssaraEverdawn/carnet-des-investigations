@@ -6,7 +6,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: NyssaraEverdawn.github.io
+  baseUrl: nyssaraeverdawn.github.io/carnet-des-investigations
   ignorePatterns:
     - private
     - Templates
