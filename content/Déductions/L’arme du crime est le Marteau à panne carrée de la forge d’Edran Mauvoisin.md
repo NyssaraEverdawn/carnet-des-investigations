@@ -3,6 +3,7 @@ tags:
   - Déduction
 ---
 **Mystère** : [[Qui a tué Garrit Holm]].
+
 L’arme du crime est le Marteau à panne carrée de la forge d’Edran Mauvoisin.
 Ses dimensions correspondent à la paie. Il porte des résidus de farine et de sang.
 ## Commentaire

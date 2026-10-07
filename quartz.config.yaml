@@ -268,7 +268,7 @@ plugins:
         graphStyle: pseudo-shell
         pseudoShellConfig:
           pinnedTags:
-            - engineering
+            - Mystère
             - writing
         showTags: false
     layout:
