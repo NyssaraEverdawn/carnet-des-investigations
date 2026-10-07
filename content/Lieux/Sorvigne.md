@@ -1,3 +1,7 @@
+---
+tags:
+  - Lieu
+---
 **Nom** : Sorvigne.
 **Région** : [[Cheliax]].
 **Religion** :

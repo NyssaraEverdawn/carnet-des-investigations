@@ -1,3 +1,7 @@
+---
+tags:
+  - Faction
+---
 **Nom** : Hellknight.
 **Type** : Armée.
 **Status** : Active.

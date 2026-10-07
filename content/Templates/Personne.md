@@ -1,3 +1,7 @@
+---
+tags:
+  - Personne
+---
 **Nom** :
 **Status** : Vivant / Inconnu / Mort
 **Faction** :

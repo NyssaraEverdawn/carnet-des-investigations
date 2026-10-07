@@ -1,3 +1,7 @@
+---
+tags:
+  - Lieu
+---
 **Nom** : Moulin Holm.
 **Région** : [[Sorvigne]]
 **Religion** :

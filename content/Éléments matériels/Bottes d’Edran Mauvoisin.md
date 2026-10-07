@@ -1,3 +1,7 @@
+---
+tags:
+  - ÉlémentMatériel
+---
 **Nom** : Bottes d’[[Edran Mauvoisin]].
 ## Commentaire
 

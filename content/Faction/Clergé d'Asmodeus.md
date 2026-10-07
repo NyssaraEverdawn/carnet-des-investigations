@@ -1,3 +1,7 @@
+---
+tags:
+  - Faction
+---
 **Nom** : Clergé d'Asmodeus.
 **Type** : Culte.
 **Status** : Active.

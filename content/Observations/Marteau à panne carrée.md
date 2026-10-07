@@ -1,3 +1,7 @@
+---
+tags:
+  - Observation
+---
 Marteau à panne carrée de 3 cm sur 4 cm, présent à la forge.
 La tête a été nettoyée.
 Résidus de farine et de sang séché à la jonction entre la tête et le manche.

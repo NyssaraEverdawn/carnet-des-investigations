@@ -1,3 +1,7 @@
+---
+tags:
+  - Faction
+---
 **Nom** : Maison Thrune.
 **Type** : Royaume.
 **Status** : Active.

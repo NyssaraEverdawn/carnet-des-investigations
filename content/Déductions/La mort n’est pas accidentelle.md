@@ -1,3 +1,7 @@
+---
+tags:
+  - Déduction
+---
 **Mystère** : [[Qui a tué Garrit Holm]].
 La mort n’est pas accidentelle.
 La plaie rectangulaire ne peut pas être produite par des marches arrondies.

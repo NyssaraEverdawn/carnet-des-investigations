@@ -1,3 +1,7 @@
+---
+tags:
+  - Personne
+---
 **Nom** : Edran Mauvoisin.
 **Status** : Vivant.
 **Faction** : Neutre.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Religion
+---
 **Nom** : Asmodeus.
 **Type** : Religion.
 **Status** : Active.

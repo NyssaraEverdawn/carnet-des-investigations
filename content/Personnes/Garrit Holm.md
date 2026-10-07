@@ -1,3 +1,7 @@
+---
+tags:
+  - Personne
+---
 **Nom** : Garrit Holm.
 **Status** : Mort.
 **Faction** : Neutre.

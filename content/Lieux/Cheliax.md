@@ -1,3 +1,7 @@
+---
+tags:
+  - Lieu
+---
 **Nom** : Cheliax
 **Région** : Avistan, région de la Mer Intérieure
 **Religion** : [[Asmodeus]].

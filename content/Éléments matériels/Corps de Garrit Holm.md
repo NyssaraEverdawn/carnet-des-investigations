@@ -1,3 +1,7 @@
+---
+tags:
+  - ÉlémentMatériel
+---
 **Nom** : Corps de [[Garrit Holm]].
 ## Commentaire
 

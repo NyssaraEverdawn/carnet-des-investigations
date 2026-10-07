@@ -1,3 +1,7 @@
+---
+tags:
+  - ÉlémentMatériel
+---
 **Nom** : Coffret de [[Garrit Holm]].
 ## Commentaire
 

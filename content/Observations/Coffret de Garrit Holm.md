@@ -1,3 +1,7 @@
+---
+tags:
+  - Observation
+---
 Le Coffret de Garrit Holm est fermé à clé.
 La clé se trouve dans la poche de la victime.
 Le coffret contient 7 reconnaissances de dette.
