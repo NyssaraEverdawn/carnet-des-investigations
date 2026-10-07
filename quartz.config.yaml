@@ -261,6 +261,7 @@ plugins:
         - private
       iconCollections:
         custom: ../icons
+      debugPanel: true
       globalGraph:
         graphStyle: pseudo-shell
         pseudoShellConfig:
