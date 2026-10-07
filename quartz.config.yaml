@@ -256,7 +256,7 @@ plugins:
   - source: "@chaoticgoodcomputing/quartz-graph"
     enabled: true
     options:
-      title: "Enquêtes
+      title: "Enquêtes"
       privateTags:
         - private
       iconCollections:
