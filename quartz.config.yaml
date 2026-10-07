@@ -268,7 +268,17 @@ plugins:
             - Mystère
             - writing
         showTags: false
-        scale: 0.2
+        scale: 1.5
+        depth: -1
+      localGraph:
+        graphStyle: pseudo-shell
+        pseudoShellConfig:
+          pinnedTags:
+            - Mystère
+            - writing
+        showTags: false
+        scale: 1.5
+        depth: -1
     layout:
       position: right
       priority: 10
