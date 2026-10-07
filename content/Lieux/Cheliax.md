@@ -1,6 +1,6 @@
 ---
 tags:
-  - Lieu
+  - l
 ---
 **Nom** : Cheliax.  
 **Région** : Avistan, région de la Mer Intérieure.  

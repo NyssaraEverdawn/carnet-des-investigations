@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hypothèse
+  - h
 ---
 **Nom** : Vol commis par un étranger de passage.  
 **Status** : Rejetée.  

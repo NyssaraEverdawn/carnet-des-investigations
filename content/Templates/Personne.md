@@ -1,6 +1,6 @@
 ---
 tags:
-  - Personne
+  - p
 ---
 **Nom** :  
 **Status** : Vivant / Inconnu / Mort  

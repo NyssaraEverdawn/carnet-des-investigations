@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hypothèse
+  - h
 ---
 **Nom** :   
 **Status** : Confirmée / Rejetée.  

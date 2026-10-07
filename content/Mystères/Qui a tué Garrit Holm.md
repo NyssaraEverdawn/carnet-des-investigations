@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystère
+  - m
 ---
 **Nom** : Qui a tué Garrit Holm ?  
 **Résolu** : Oui.  

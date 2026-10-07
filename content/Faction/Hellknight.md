@@ -1,6 +1,6 @@
 ---
 tags:
-  - Faction
+  - f
 ---
 **Nom** : Hellknight.  
 **Type** : Armée.  

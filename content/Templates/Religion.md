@@ -1,6 +1,6 @@
 ---
 tags:
-  - Religion
+  - r
 ---
 **Nom** :  
 **Type** : Religion / Culte / Tradition / Philosophie.  

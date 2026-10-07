@@ -1,6 +1,6 @@
 ---
 tags:
-  - ÉlémentMatériel
+  - em
 ---
 **Nom** : Corps de [[Garrit Holm]].  
 ## Commentaire

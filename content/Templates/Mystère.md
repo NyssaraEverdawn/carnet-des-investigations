@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mystère
+  - m
 ---
 **Nom** :   
 **Résolu** : Oui / Non.  

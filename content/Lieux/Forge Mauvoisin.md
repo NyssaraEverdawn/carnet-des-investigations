@@ -1,6 +1,6 @@
 ---
 tags:
-  - Lieu
+  - l
 ---
 **Nom** : Forge Mauvoisin.  
 **Région** : [[Sorvigne]]  

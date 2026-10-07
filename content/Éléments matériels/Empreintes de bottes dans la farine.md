@@ -1,6 +1,6 @@
 ---
 tags:
-  - ÉlémentMatériel
+  - em
 ---
 **Nom** : Empreintes de bottes dans la farine.  
 ## Commentaire

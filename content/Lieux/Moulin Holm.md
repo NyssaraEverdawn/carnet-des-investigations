@@ -1,6 +1,6 @@
 ---
 tags:
-  - Lieu
+  - l
 ---
 **Nom** : Moulin Holm.  
 **Région** : [[Sorvigne]]  

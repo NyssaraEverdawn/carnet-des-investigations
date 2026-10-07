@@ -1,6 +1,6 @@
 ---
 tags:
-  - ÉlémentMatériel
+  - em
 ---
 **Nom** : Marteau à panne carrée.  
 ## Commentaire

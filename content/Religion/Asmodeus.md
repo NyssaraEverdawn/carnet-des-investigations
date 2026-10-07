@@ -1,6 +1,6 @@
 ---
 tags:
-  - Religion
+  - r
 ---
 **Nom** : Asmodeus.  
 **Type** : Religion.  

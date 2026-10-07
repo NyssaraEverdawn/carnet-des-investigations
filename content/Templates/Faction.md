@@ -1,6 +1,6 @@
 ---
 tags:
-  - Faction
+  - f
 ---
 **Nom** :  
 **Type** : Guilde / Royaume / Culte / Organisation / Clan / Armée / Autre.  

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Personne
+  - p
 ---
 **Nom** : Garrit Holm.  
 **Status** : Mort.  

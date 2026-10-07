@@ -1,6 +1,6 @@
 ---
 tags:
-  - Observation
+  - o
 ---
 
 ## Commentaire

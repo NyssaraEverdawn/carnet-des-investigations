@@ -1,6 +1,6 @@
 ---
 tags:
-  - Personne
+  - p
 ---
 **Nom** : Edran Mauvoisin.  
 **Status** : Vivant.  

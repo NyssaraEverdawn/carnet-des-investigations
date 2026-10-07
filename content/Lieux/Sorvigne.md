@@ -1,6 +1,6 @@
 ---
 tags:
-  - Lieu
+  - l
 ---
 **Nom** : Sorvigne.  
 **Région** : [[Cheliax]].  

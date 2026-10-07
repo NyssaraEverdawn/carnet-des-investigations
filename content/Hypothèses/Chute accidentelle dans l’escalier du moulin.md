@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hypothèse
+  - h
 ---
 **Nom** : Chute accidentelle dans l’escalier du moulin.  
 **Status** : Rejetée.  

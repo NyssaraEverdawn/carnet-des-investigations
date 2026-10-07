@@ -1,6 +1,6 @@
 ---
 tags:
-  - Faction
+  - f
 ---
 **Nom** : Clergé d'Asmodeus.  
 **Type** : Culte.  

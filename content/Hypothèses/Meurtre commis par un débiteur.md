@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hypothèse
+  - h
 ---
 **Nom** : Meurtre commis par un débiteur.  
 **Status** : Confirmée.  

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Observation
+  - o
 ---
 Les Bottes d’Edran Mauvoisin présentent trois clous disposés en triangle au talon.  
 De la farine est présente entre les clous.  

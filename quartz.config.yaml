@@ -293,14 +293,14 @@ plugins:
     enabled: true
     options:
       tags:
-        Personne: { color: "#00ffee"}
-        Mystère: { color: "#ff0000"}
-        Déduction: { color: "#2bff00"}
-        Faction: { color: "#ee00ff"}
-        Hypothèse: { color: "#fa8500"}
-        Lieu: { color: "#8000ff"}
-        Observation: { color: "#eeff00"}
-        ÉlémentMatériel: { color: "#0033ff"}
+        p: { color: "#00ffee"}
+        m: { color: "#ff0000"}
+        d: { color: "#2bff00"}
+        f: { color: "#ee00ff"}
+        h: { color: "#fa8500"}
+        l: { color: "#8000ff"}
+        o: { color: "#eeff00"}
+        em: { color: "#0033ff"}
     order: 20
 layout:
   groups:

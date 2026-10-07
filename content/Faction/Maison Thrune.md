@@ -1,6 +1,6 @@
 ---
 tags:
-  - Faction
+  - f
 ---
 **Nom** : Maison Thrune.  
 **Type** : Royaume.  

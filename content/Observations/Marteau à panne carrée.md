@@ -1,6 +1,6 @@
 ---
 tags:
-  - Observation
+  - o
 ---
 Marteau à panne carrée de 3 cm sur 4 cm, présent à la forge.  
 La tête a été nettoyée.  
