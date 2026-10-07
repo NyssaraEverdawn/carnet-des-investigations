@@ -2,9 +2,9 @@
 tags:
   - Hypothèse
 ---
-**Nom** : Chute accidentelle dans l’escalier du moulin.
-**Status** : Rejetée.
-**Mystère** : [[Qui a tué Garrit Holm]].
+**Nom** : Chute accidentelle dans l’escalier du moulin.  
+**Status** : Rejetée.  
+**Mystère** : [[Qui a tué Garrit Holm]].  
 ## Commentaire
 
-N’explique pas la reconnaissance de dette manquante.
+N’explique pas la reconnaissance de dette manquante.  

@@ -2,10 +2,10 @@
 tags:
   - Déduction
 ---
-**Mystère** : [[Qui a tué Garrit Holm]].
+**Mystère** : [[Qui a tué Garrit Holm]].  
 
-La reconnaissance de dette retirée du coffret appartient à Edran Mauvoisin.
-Elle a été brûlée dans le foyer de la forge.
+La reconnaissance de dette retirée du coffret appartient à Edran Mauvoisin.  
+Elle a été brûlée dans le foyer de la forge.  
 ## Commentaire
 
 [[Observations/Coffret de Garrit Holm|Coffret de Garrit Holm]]

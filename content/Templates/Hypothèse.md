@@ -2,7 +2,7 @@
 tags:
   - Hypothèse
 ---
-**Nom** : 
-**Status** : Confirmée / Rejetée.
-**Mystère** :
+**Nom** :   
+**Status** : Confirmée / Rejetée.  
+**Mystère** :  
 ## Commentaire

@@ -2,7 +2,7 @@
 tags:
   - ÉlémentMatériel
 ---
-**Nom** : Marteau à panne carrée.
+**Nom** : Marteau à panne carrée.  
 ## Commentaire
 
 Panne de 3 cm sur 4 cm.
