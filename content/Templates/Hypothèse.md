@@ -3,6 +3,6 @@ tags:
   - h
 ---
 **Nom** :   
-**Status** : Confirmée / Rejetée.  
+**Status** : Confirmée / A valider / Rejetée.  
 **Mystère** :  
 ## Commentaire
