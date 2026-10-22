@@ -12,4 +12,4 @@ tags:
 Humain.  
 Est présent sur le [[Port de Pêche]] tous les matins.  
 A une dette de 50 PO au [[Comptoir des Trois Sceaux]].  
-A 3 semaines pour payer sa dette à [[Kelias Shadowmane]].  
+A 3 semaines pour payer sa dette à [[Kaelis Shadowmane]].  

@@ -2,7 +2,7 @@
 tags:
   - p
 ---
-**Nom** :  Kelias Shadowmane.  
+**Nom** :  Kaelis Shadowmane.  
 **Status** : Vivant.  
 **Faction** : [[Comptoir des Trois Sceaux]].  
 **Occupation** :  Créancier.    
