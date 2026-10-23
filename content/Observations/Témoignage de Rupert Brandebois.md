@@ -10,4 +10,4 @@ Il faut parler à Hollandile pour le sujet de la contrebande.
 On le trouve près de l'ancien théâtre ou du port.  
 ## Commentaire
 
-[[Rupert Brandebois]]  [[Port de Pêche]]  
+[[Rupert Brandebois]]  [[Port de Pêche de Pezzack]]  

@@ -12,3 +12,4 @@ tags:
 Tiefling.  
 
 Cherche des informations sur la [[Maison Veltrano]].  
+A participé au meurtre des [[Manutentionnaires du Port de Pezzack]].  

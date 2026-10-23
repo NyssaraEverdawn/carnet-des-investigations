@@ -10,6 +10,6 @@ tags:
 ## Commentaire
 
 Humain.  
-Est présent sur le [[Port de Pêche]] tous les matins.  
+Est présent sur le [[Port de Pêche de Pezzack]] tous les matins.  
 A une dette de 50 PO au [[Comptoir des Trois Sceaux]].  
 A 3 semaines pour payer sa dette à [[Kaelis Shadowmane]].  

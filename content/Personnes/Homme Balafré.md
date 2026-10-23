@@ -9,6 +9,7 @@ tags:
 **Lieu de résidence** :  
 ## Commentaire
 
+Humain.  
 Manque l'oreille droite.  
 La quarantaine.  
 Aperçu en [[Isger]] pour la dernière fois il y a 5 ans.  

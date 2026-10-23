@@ -8,5 +8,5 @@ tags:
 **Faction** :  
 ## Commentaire
 
-Jamais visité.  
-Aucune information.  
+Domaine de [[Trud]].  
+La présence des [[Strix]] est là pour faire fuir les curieux.  

@@ -5,4 +5,4 @@ tags:
 Activement recherchée par les autorités de Pezzack.  
 ## Commentaire
 
-[[Amalia Wraxton]]  [[Ancien Théâtre]]    
+[[Amalia Wraxton]]  [[Ancien Théâtre de Pezzack]]    

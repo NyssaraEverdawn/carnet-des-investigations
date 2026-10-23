@@ -11,4 +11,6 @@ tags:
 
 Humain.  
 Travaille pour le [[Comptoir des Trois Sceaux]].  
+
 Cherche à récupérer la dette de [[Rupert Brandebois]].  
+A participé au meurtre des [[Manutentionnaires du Port de Pezzack]].  

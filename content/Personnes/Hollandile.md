@@ -10,5 +10,7 @@ tags:
 ## Commentaire
 
 Homme important de la contrebande de Pezzack.  
-Traine du cotés de l'[[Ancien Théâtre]] ou du [[Port de Pêche]].  
+Traine du cotés de l'[[Ancien Théâtre de Pezzack]] ou du [[Port de Pêche de Pezzack]].  
+Offre des services de médiation.  
+
 Le gouverneur [[Darjan Tauranor]] cherche à l'arrêter.  

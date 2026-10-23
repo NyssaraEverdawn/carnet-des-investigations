@@ -12,3 +12,4 @@ tags:
 Elfe.  
 
 Recherche sa cousine [[Elrine Shadowdancer]], kidnappée.  
+A participé au meurtre des [[Manutentionnaires du Port de Pezzack]].  

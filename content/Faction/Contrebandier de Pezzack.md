@@ -6,6 +6,6 @@ tags:
 **Type** : Organisation.  
 **Status** : Active.  
 **Alignement** :   
-**Zone d'influence** :  [[Port de Pêche]].  
+**Zone d'influence** :  [[Port de Pêche de Pezzack]].  
 ## Commentaire
 

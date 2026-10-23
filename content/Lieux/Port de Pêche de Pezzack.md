@@ -9,3 +9,4 @@ tags:
 ## Commentaire
 
 Lieu de contrebande : alcools et armes.  
+Nombreuses échoppes qui vendent des commodités.  

@@ -10,5 +10,5 @@ tags:
 ## Commentaire
 
 Humain.  
-
 Est redevable à [[Alnerie]].  
+Ne partage pas ses opinions politiques.  
