@@ -13,3 +13,4 @@ Halfeline.
 Méfiante et parle peu des environs.  
 Connait [[Hollandile]].  
 Emploie des enfants comme [[Pell]] pour récupérer de la marchandise.  
+A une relation  de dépendance avec les [[Contrebandier de Pezzack]].  

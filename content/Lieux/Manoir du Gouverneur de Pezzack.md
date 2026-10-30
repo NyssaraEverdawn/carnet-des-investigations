@@ -9,3 +9,5 @@ tags:
 ## Commentaire
 
 Batiment impostant avec fortification.  
+Seul point d'accès via le pont.  
+En haut d'une colline.  

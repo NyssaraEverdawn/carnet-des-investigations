@@ -9,4 +9,4 @@ Les livraisons se font par voie terrestre. Elles empruntent la porte Sud-Est.
 La présence de mage est visible dans le quartier.  
 ## Commentaire
 
-[[Académie de Magie Appliqué]]
+[[Académie de Magie Appliquée]]
