@@ -13,6 +13,7 @@ Humain.
 Son père a été assassiné lors de la deuxième rébellion de Pezzack.  
 A une politique plus tendre que les autres villes du Cheliax.  
 A des liens avec le [[Gouverneur Militaire]].  
+Aurait un fils.  
 
 Cherche à restaurer l'ordre dans la ville.  
 Accepte les aides extérieures.  

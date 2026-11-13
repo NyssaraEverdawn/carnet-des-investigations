@@ -11,4 +11,4 @@ C'est aussi l'intermédiaire privilégié avec l'Académie de Magie Appliquée.
 
 ## Commentaire
 
-[[Trone Défiant]]  [[Loyaliste de Pezzack]]  [[Trud]]  
+[[Trone Défiant]]  [[Loyaliste de Pezzack]]  [[Trud]] [[Fils de Darjan Tauranor]]  
